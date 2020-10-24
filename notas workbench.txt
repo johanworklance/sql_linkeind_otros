@@ -1,0 +1,20 @@
+las bases de datos aqui se llaman schemas
+
+podemos crearla con: file, new model, se abre nueva ventana, donde esta el nombre por defecto de la bd, doble click,
+cambiamos nombre, despues esta la opcion add diagram, despues si queremos podemos importar tablas de otras bds con la opcion
+database reverse enginee
+
+en el diagram, podemos usar las relaciones cardinales de forma grafica de 1 a varios, etc
+
+
+PARA UN PROYECTO
+
+primero creamos la base de datos en la conexion que tengamos, en este caso localhost
+
+despues volvemos al inicio y escogemos new model, despues cambiamos el nombre al mismo de la base de datos creada
+
+luego creamos un diagrama con el modelo de tablas que seguiremos y sus relaciones, finalmente usamos databases sincronyse model
+
+y siguiente  siguiente el encontrara la bd que tiene el mismo nombre del modelo
+
+EN OCASIONES ME DABA ERROR CON LAS SENTENCIAS QUE EL PROGRAMA CREABA, SIMPLEMENTE BORRAR DONDE DIGA "VISIBLE"

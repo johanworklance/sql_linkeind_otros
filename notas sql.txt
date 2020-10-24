@@ -1,0 +1,9 @@
+recordar iniciar xampp y el servicio mysql para poder ejecutar mysql en la carpeta xampp/mysql/bin
+
+la ruta C:\xampp\mysql\bin agregarla a la variable de entorno path para poder ejecutar mysql desde cualquier carpeta
+lo agregamos usando ";C:\xampp\mysql\bin" sin las comillas al final
+iniciar con mysql -u root -p (el password de root esta en blanco, solo dar enter)
+
+SHOW DATABASES ver todas las bases de datos
+
+para entrar con el usuario de la pc y solo usar el comando mysql, crear el usuario en phpmyadmin con todos los privilegios
